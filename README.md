@@ -22,7 +22,7 @@
 
 可以按demo中的格式添加要检测版本的App，excel文件字段解释如下：
 
-<img src="/Users/moench/app_repository/readme/QQ20210624-181203@2x.png" alt="QQ20210624-181203@2x" style="zoom:30%;" />
+<img src="readme/QQ20210624-181203@2x.png" alt="QQ20210624-181203@2x" style="zoom:30%;" />
 
 》
 
