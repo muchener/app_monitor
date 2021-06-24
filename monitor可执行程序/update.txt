@@ -1,0 +1,3 @@
+2021-06-24 App名称 : QQ 渠道 : apple None-->版本 1.7.3
+2021-06-24 App名称 : QQ 渠道 : huawei None-->8.8.3
+2021-06-24 App名称 : QQ 渠道 : xiaomi None-->8.8.3
