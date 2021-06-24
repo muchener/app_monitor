@@ -12,7 +12,7 @@
 
 进入【monitor可执行程序】文件夹。
 
-**Step1：修改data.xlsx文件，加入需要检测的App**
+**Step1：修改data.xlsx文件，加入需要检测的App**（添加一次即可，后续若无app新增，无需更新excel文件）
 
 ![image-20210624175408230](readme/image-20210624175408230.png)
 
