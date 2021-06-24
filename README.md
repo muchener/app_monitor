@@ -34,19 +34,19 @@
 
 **1 小米渠道xiaomi**
 
-通过小米应用商店https://app.mi.com/查询需要查看版本的app，点击app详情页，package的值为url中的id值。
+通过小米应用商店 https://app.mi.com/ 查询需要查看版本的app，点击app详情页，package的值为url中的id值。
 
-例如：QQ，小米应用商店url：https://app.mi.com/details?id=com.tencent.mobileqq&ref=search，package值为**com.tencent.mobileqq**。
+例如：QQ，小米应用商店url：https://app.mi.com/details?id=com.tencent.mobileqq&ref=search ，package值为**com.tencent.mobileqq**。
 
 **2 华为渠道huawei**
 
-通过华为应用商店https://appstore.huawei.com/查询需要查看版本的app，点击app详情页，package的值为url中的Cxxx。
+通过华为应用商店https://appstore.huawei.com/ 查询需要查看版本的app，点击app详情页，package的值为url中的Cxxx。
 
-例如：QQ，华为应用商店url：https://appstore.huawei.com/#/app/C9319，package值为**C9319**。
+例如：QQ，华为应用商店url：https://appstore.huawei.com/#/app/C9319 ，package值为**C9319**。
 
 **3 苹果应用商店apple**
 
 手机AppStore搜索App，分享url后查看url，package的值为url中的idxxxxxx。
 
-例如：QQ，分享url链接https://apps.apple.com/cn/app/qq-2011/id444934666，package的值为url中的**id444934666**。
+例如：QQ，分享url链接https://apps.apple.com/cn/app/qq-2011/id444934666 ，package的值为url中的**id444934666**。
 
